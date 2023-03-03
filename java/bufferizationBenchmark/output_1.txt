@@ -1,0 +1,44 @@
+17M     wallpaper-149.png
+
+Copied wallpaper-149.png successfully with 8KB DirectBuffer
+Elapsed time : 12559200ns [12ms]
+
+
+Copied wallpaper-149.png successfully with 16KB DirectBuffer
+Elapsed time : 7435200ns [7ms]
+
+
+Copied wallpaper-149.png successfully with 32KB DirectBuffer
+Elapsed time : 8235000ns [8ms]
+
+
+Copied wallpaper-149.png successfully with 64KB DirectBuffer
+Elapsed time : 5743200ns [5ms]
+
+
+Copied wallpaper-149.png successfully with 8KB HeapBuffer
+Elapsed time : 17625800ns [17ms]
+
+
+Copied wallpaper-149.png successfully with 16KB HeapBuffer
+Elapsed time : 10374100ns [10ms]
+
+
+Copied wallpaper-149.png successfully with 32KB HeapBuffer
+Elapsed time : 11902400ns [11ms]
+
+
+Copied wallpaper-149.png successfully with 64KB HeapBuffer
+Elapsed time : 11060600ns [11ms]
+
+
+Copied wallpaper-149.png successfully with TransferTo
+Elapsed time : 3806700ns [3ms]
+
+
+Copied wallpaper-149.png successfully with BufferedStream
+Elapsed time : 410711700ns [410ms]
+
+
+Copied wallpaper-149.png successfully with 8KB CustomBufferStream
+Elapsed time : 44076600ns [44ms]

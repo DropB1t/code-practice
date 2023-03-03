@@ -1,0 +1,4 @@
+Marco,Rossi,Pisa,109
+Anna,Bruno,Firenze,110
+Andrea,Rossi,Pisa,109
+Matteo,Bruno,Firenze,108

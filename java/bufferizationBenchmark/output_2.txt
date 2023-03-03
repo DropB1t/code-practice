@@ -1,0 +1,878 @@
+Copied file_400K successfully with 8KB DirectBuffer
+Elapsed time : 1557100ns [1ms]
+
+
+Copied file_400K successfully with 16KB DirectBuffer
+Elapsed time : 407000ns [0ms]
+
+
+Copied file_400K successfully with 32KB DirectBuffer
+Elapsed time : 200400ns [0ms]
+
+
+Copied file_400K successfully with 64KB DirectBuffer
+Elapsed time : 170200ns [0ms]
+
+
+Copied file_400K successfully with 8KB HeapBuffer
+Elapsed time : 1730800ns [1ms]
+
+
+Copied file_400K successfully with 16KB HeapBuffer
+Elapsed time : 813800ns [0ms]
+
+
+Copied file_400K successfully with 32KB HeapBuffer
+Elapsed time : 369800ns [0ms]
+
+
+Copied file_400K successfully with 64KB HeapBuffer
+Elapsed time : 567200ns [0ms]
+
+
+Copied file_400K successfully with TransferTo
+Elapsed time : 140600ns [0ms]
+
+
+Copied file_400K successfully with BufferedStream
+Elapsed time : 17838800ns [17ms]
+
+
+Copied file_400K successfully with 8KB CustomBufferStream
+Elapsed time : 1425600ns [1ms]
+
+
+Copied file_1M successfully with 8KB DirectBuffer
+Elapsed time : 1155300ns [1ms]
+
+
+Copied file_1M successfully with 16KB DirectBuffer
+Elapsed time : 390600ns [0ms]
+
+
+Copied file_1M successfully with 32KB DirectBuffer
+Elapsed time : 446500ns [0ms]
+
+
+Copied file_1M successfully with 64KB DirectBuffer
+Elapsed time : 305200ns [0ms]
+
+
+Copied file_1M successfully with 8KB HeapBuffer
+Elapsed time : 1711300ns [1ms]
+
+
+Copied file_1M successfully with 16KB HeapBuffer
+Elapsed time : 1153800ns [1ms]
+
+
+Copied file_1M successfully with 32KB HeapBuffer
+Elapsed time : 1001000ns [1ms]
+
+
+Copied file_1M successfully with 64KB HeapBuffer
+Elapsed time : 997700ns [0ms]
+
+
+Copied file_1M successfully with TransferTo
+Elapsed time : 210900ns [0ms]
+
+
+Copied file_1M successfully with BufferedStream
+Elapsed time : 34155200ns [34ms]
+
+
+Copied file_1M successfully with 8KB CustomBufferStream
+Elapsed time : 2486900ns [2ms]
+
+
+Copied file_8M successfully with 8KB DirectBuffer
+Elapsed time : 6808600ns [6ms]
+
+
+Copied file_8M successfully with 16KB DirectBuffer
+Elapsed time : 2803600ns [2ms]
+
+
+Copied file_8M successfully with 32KB DirectBuffer
+Elapsed time : 2331600ns [2ms]
+
+
+Copied file_8M successfully with 64KB DirectBuffer
+Elapsed time : 2809900ns [2ms]
+
+
+Copied file_8M successfully with 8KB HeapBuffer
+Elapsed time : 6091000ns [6ms]
+
+
+Copied file_8M successfully with 16KB HeapBuffer
+Elapsed time : 4087200ns [4ms]
+
+
+Copied file_8M successfully with 32KB HeapBuffer
+Elapsed time : 2920200ns [2ms]
+
+
+Copied file_8M successfully with 64KB HeapBuffer
+Elapsed time : 3317600ns [3ms]
+
+
+Copied file_8M successfully with TransferTo
+Elapsed time : 1527700ns [1ms]
+
+
+Copied file_8M successfully with BufferedStream
+Elapsed time : 254978200ns [254ms]
+
+
+Copied file_8M successfully with 8KB CustomBufferStream
+Elapsed time : 20497100ns [20ms]
+
+
+Copied file_20K successfully with 8KB DirectBuffer
+Elapsed time : 76900ns [0ms]
+
+
+Copied file_20K successfully with 16KB DirectBuffer
+Elapsed time : 43200ns [0ms]
+
+
+Copied file_20K successfully with 32KB DirectBuffer
+Elapsed time : 42500ns [0ms]
+
+
+Copied file_20K successfully with 64KB DirectBuffer
+Elapsed time : 54300ns [0ms]
+
+
+Copied file_20K successfully with 8KB HeapBuffer
+Elapsed time : 20100ns [0ms]
+
+
+Copied file_20K successfully with 16KB HeapBuffer
+Elapsed time : 34000ns [0ms]
+
+
+Copied file_20K successfully with 32KB HeapBuffer
+Elapsed time : 13300ns [0ms]
+
+
+Copied file_20K successfully with 64KB HeapBuffer
+Elapsed time : 11400ns [0ms]
+
+
+Copied file_20K successfully with TransferTo
+Elapsed time : 11400ns [0ms]
+
+
+Copied file_20K successfully with BufferedStream
+Elapsed time : 677300ns [0ms]
+
+
+Copied file_20K successfully with 8KB CustomBufferStream
+Elapsed time : 76700ns [0ms]
+
+
+Copied file_100K successfully with 8KB DirectBuffer
+Elapsed time : 145000ns [0ms]
+
+
+Copied file_100K successfully with 16KB DirectBuffer
+Elapsed time : 60100ns [0ms]
+
+
+Copied file_100K successfully with 32KB DirectBuffer
+Elapsed time : 56100ns [0ms]
+
+
+Copied file_100K successfully with 64KB DirectBuffer
+Elapsed time : 65600ns [0ms]
+
+
+Copied file_100K successfully with 8KB HeapBuffer
+Elapsed time : 73600ns [0ms]
+
+
+Copied file_100K successfully with 16KB HeapBuffer
+Elapsed time : 60400ns [0ms]
+
+
+Copied file_100K successfully with 32KB HeapBuffer
+Elapsed time : 52800ns [0ms]
+
+
+Copied file_100K successfully with 64KB HeapBuffer
+Elapsed time : 109000ns [0ms]
+
+
+Copied file_100K successfully with TransferTo
+Elapsed time : 36600ns [0ms]
+
+
+Copied file_100K successfully with BufferedStream
+Elapsed time : 2986500ns [2ms]
+
+
+Copied file_100K successfully with 8KB CustomBufferStream
+Elapsed time : 360000ns [0ms]
+
+
+Copied file_800K successfully with 8KB DirectBuffer
+Elapsed time : 650900ns [0ms]
+
+
+Copied file_800K successfully with 16KB DirectBuffer
+Elapsed time : 337100ns [0ms]
+
+
+Copied file_800K successfully with 32KB DirectBuffer
+Elapsed time : 199900ns [0ms]
+
+
+Copied file_800K successfully with 64KB DirectBuffer
+Elapsed time : 198300ns [0ms]
+
+
+Copied file_800K successfully with 8KB HeapBuffer
+Elapsed time : 367700ns [0ms]
+
+
+Copied file_800K successfully with 16KB HeapBuffer
+Elapsed time : 274400ns [0ms]
+
+
+Copied file_800K successfully with 32KB HeapBuffer
+Elapsed time : 316700ns [0ms]
+
+
+Copied file_800K successfully with 64KB HeapBuffer
+Elapsed time : 248400ns [0ms]
+
+
+Copied file_800K successfully with TransferTo
+Elapsed time : 128100ns [0ms]
+
+
+Copied file_800K successfully with BufferedStream
+Elapsed time : 26436500ns [26ms]
+
+
+Copied file_800K successfully with 8KB CustomBufferStream
+Elapsed time : 1967400ns [1ms]
+
+
+Copied file_2K successfully with 8KB DirectBuffer
+Elapsed time : 36000ns [0ms]
+
+
+Copied file_2K successfully with 16KB DirectBuffer
+Elapsed time : 31800ns [0ms]
+
+
+Copied file_2K successfully with 32KB DirectBuffer
+Elapsed time : 64000ns [0ms]
+
+
+Copied file_2K successfully with 64KB DirectBuffer
+Elapsed time : 27000ns [0ms]
+
+
+Copied file_2K successfully with 8KB HeapBuffer
+Elapsed time : 10200ns [0ms]
+
+
+Copied file_2K successfully with 16KB HeapBuffer
+Elapsed time : 7400ns [0ms]
+
+
+Copied file_2K successfully with 32KB HeapBuffer
+Elapsed time : 5800ns [0ms]
+
+
+Copied file_2K successfully with 64KB HeapBuffer
+Elapsed time : 6300ns [0ms]
+
+
+Copied file_2K successfully with TransferTo
+Elapsed time : 28400ns [0ms]
+
+
+Copied file_2K successfully with BufferedStream
+Elapsed time : 57400ns [0ms]
+
+
+Copied file_2K successfully with 8KB CustomBufferStream
+Elapsed time : 14900ns [0ms]
+
+
+Copied file_8K successfully with 8KB DirectBuffer
+Elapsed time : 47200ns [0ms]
+
+
+Copied file_8K successfully with 16KB DirectBuffer
+Elapsed time : 24300ns [0ms]
+
+
+Copied file_8K successfully with 32KB DirectBuffer
+Elapsed time : 73000ns [0ms]
+
+
+Copied file_8K successfully with 64KB DirectBuffer
+Elapsed time : 71200ns [0ms]
+
+
+Copied file_8K successfully with 8KB HeapBuffer
+Elapsed time : 9800ns [0ms]
+
+
+Copied file_8K successfully with 16KB HeapBuffer
+Elapsed time : 21000ns [0ms]
+
+
+Copied file_8K successfully with 32KB HeapBuffer
+Elapsed time : 7800ns [0ms]
+
+
+Copied file_8K successfully with 64KB HeapBuffer
+Elapsed time : 24500ns [0ms]
+
+
+Copied file_8K successfully with TransferTo
+Elapsed time : 31400ns [0ms]
+
+
+Copied file_8K successfully with BufferedStream
+Elapsed time : 244900ns [0ms]
+
+
+Copied file_8K successfully with 8KB CustomBufferStream
+Elapsed time : 30000ns [0ms]
+
+
+Copied file_200K successfully with 8KB DirectBuffer
+Elapsed time : 180000ns [0ms]
+
+
+Copied file_200K successfully with 16KB DirectBuffer
+Elapsed time : 89300ns [0ms]
+
+
+Copied file_200K successfully with 32KB DirectBuffer
+Elapsed time : 79700ns [0ms]
+
+
+Copied file_200K successfully with 64KB DirectBuffer
+Elapsed time : 82600ns [0ms]
+
+
+Copied file_200K successfully with 8KB HeapBuffer
+Elapsed time : 103100ns [0ms]
+
+
+Copied file_200K successfully with 16KB HeapBuffer
+Elapsed time : 134300ns [0ms]
+
+
+Copied file_200K successfully with 32KB HeapBuffer
+Elapsed time : 131300ns [0ms]
+
+
+Copied file_200K successfully with 64KB HeapBuffer
+Elapsed time : 97400ns [0ms]
+
+
+Copied file_200K successfully with TransferTo
+Elapsed time : 57500ns [0ms]
+
+
+Copied file_200K successfully with BufferedStream
+Elapsed time : 6253200ns [6ms]
+
+
+Copied file_200K successfully with 8KB CustomBufferStream
+Elapsed time : 508200ns [0ms]
+
+
+Copied file_4M successfully with 8KB DirectBuffer
+Elapsed time : 3960600ns [3ms]
+
+
+Copied file_4M successfully with 16KB DirectBuffer
+Elapsed time : 3120600ns [3ms]
+
+
+Copied file_4M successfully with 32KB DirectBuffer
+Elapsed time : 2266600ns [2ms]
+
+
+Copied file_4M successfully with 64KB DirectBuffer
+Elapsed time : 1121500ns [1ms]
+
+
+Copied file_4M successfully with 8KB HeapBuffer
+Elapsed time : 3774900ns [3ms]
+
+
+Copied file_4M successfully with 16KB HeapBuffer
+Elapsed time : 3054900ns [3ms]
+
+
+Copied file_4M successfully with 32KB HeapBuffer
+Elapsed time : 3190400ns [3ms]
+
+
+Copied file_4M successfully with 64KB HeapBuffer
+Elapsed time : 2923400ns [2ms]
+
+
+Copied file_4M successfully with TransferTo
+Elapsed time : 842600ns [0ms]
+
+
+Copied file_4M successfully with BufferedStream
+Elapsed time : 129510500ns [129ms]
+
+
+Copied file_4M successfully with 8KB CustomBufferStream
+Elapsed time : 9679700ns [9ms]
+
+
+Copied file_2M successfully with 8KB DirectBuffer
+Elapsed time : 1928100ns [1ms]
+
+
+Copied file_2M successfully with 16KB DirectBuffer
+Elapsed time : 618400ns [0ms]
+
+
+Copied file_2M successfully with 32KB DirectBuffer
+Elapsed time : 506800ns [0ms]
+
+
+Copied file_2M successfully with 64KB DirectBuffer
+Elapsed time : 492900ns [0ms]
+
+
+Copied file_2M successfully with 8KB HeapBuffer
+Elapsed time : 880400ns [0ms]
+
+
+Copied file_2M successfully with 16KB HeapBuffer
+Elapsed time : 708200ns [0ms]
+
+
+Copied file_2M successfully with 32KB HeapBuffer
+Elapsed time : 618900ns [0ms]
+
+
+Copied file_2M successfully with 64KB HeapBuffer
+Elapsed time : 898100ns [0ms]
+
+
+Copied file_2M successfully with TransferTo
+Elapsed time : 563800ns [0ms]
+
+
+Copied file_2M successfully with BufferedStream
+Elapsed time : 65144300ns [65ms]
+
+
+Copied file_2M successfully with 8KB CustomBufferStream
+Elapsed time : 5137600ns [5ms]
+
+
+Copied file_10K successfully with 8KB DirectBuffer
+Elapsed time : 64800ns [0ms]
+
+
+Copied file_10K successfully with 16KB DirectBuffer
+Elapsed time : 90000ns [0ms]
+
+
+Copied file_10K successfully with 32KB DirectBuffer
+Elapsed time : 50900ns [0ms]
+
+
+Copied file_10K successfully with 64KB DirectBuffer
+Elapsed time : 58300ns [0ms]
+
+
+Copied file_10K successfully with 8KB HeapBuffer
+Elapsed time : 28900ns [0ms]
+
+
+Copied file_10K successfully with 16KB HeapBuffer
+Elapsed time : 23800ns [0ms]
+
+
+Copied file_10K successfully with 32KB HeapBuffer
+Elapsed time : 24200ns [0ms]
+
+
+Copied file_10K successfully with 64KB HeapBuffer
+Elapsed time : 25200ns [0ms]
+
+
+Copied file_10K successfully with TransferTo
+Elapsed time : 28000ns [0ms]
+
+
+Copied file_10K successfully with BufferedStream
+Elapsed time : 335800ns [0ms]
+
+
+Copied file_10K successfully with 8KB CustomBufferStream
+Elapsed time : 45200ns [0ms]
+
+
+Copied file_4K successfully with 8KB DirectBuffer
+Elapsed time : 77600ns [0ms]
+
+
+Copied file_4K successfully with 16KB DirectBuffer
+Elapsed time : 44800ns [0ms]
+
+
+Copied file_4K successfully with 32KB DirectBuffer
+Elapsed time : 44400ns [0ms]
+
+
+Copied file_4K successfully with 64KB DirectBuffer
+Elapsed time : 29400ns [0ms]
+
+
+Copied file_4K successfully with 8KB HeapBuffer
+Elapsed time : 8200ns [0ms]
+
+
+Copied file_4K successfully with 16KB HeapBuffer
+Elapsed time : 4900ns [0ms]
+
+
+Copied file_4K successfully with 32KB HeapBuffer
+Elapsed time : 5200ns [0ms]
+
+
+Copied file_4K successfully with 64KB HeapBuffer
+Elapsed time : 6000ns [0ms]
+
+
+Copied file_4K successfully with TransferTo
+Elapsed time : 9900ns [0ms]
+
+
+Copied file_4K successfully with BufferedStream
+Elapsed time : 124600ns [0ms]
+
+
+Copied file_4K successfully with 8KB CustomBufferStream
+Elapsed time : 18500ns [0ms]
+
+
+Copied file_40M successfully with 8KB DirectBuffer
+Elapsed time : 36695700ns [36ms]
+
+
+Copied file_40M successfully with 16KB DirectBuffer
+Elapsed time : 14280600ns [14ms]
+
+
+Copied file_40M successfully with 32KB DirectBuffer
+Elapsed time : 10460000ns [10ms]
+
+
+Copied file_40M successfully with 64KB DirectBuffer
+Elapsed time : 9497600ns [9ms]
+
+
+Copied file_40M successfully with 8KB HeapBuffer
+Elapsed time : 18370500ns [18ms]
+
+
+Copied file_40M successfully with 16KB HeapBuffer
+Elapsed time : 15690900ns [15ms]
+
+
+Copied file_40M successfully with 32KB HeapBuffer
+Elapsed time : 14060100ns [14ms]
+
+
+Copied file_40M successfully with 64KB HeapBuffer
+Elapsed time : 16375200ns [16ms]
+
+
+Copied file_40M successfully with TransferTo
+Elapsed time : 8185100ns [8ms]
+
+
+Copied file_40M successfully with BufferedStream
+Elapsed time : 1286240400ns [1286ms]
+
+
+Copied file_40M successfully with 8KB CustomBufferStream
+Elapsed time : 98601800ns [98ms]
+
+
+Copied file_40K successfully with 8KB DirectBuffer
+Elapsed time : 60900ns [0ms]
+
+
+Copied file_40K successfully with 16KB DirectBuffer
+Elapsed time : 48500ns [0ms]
+
+
+Copied file_40K successfully with 32KB DirectBuffer
+Elapsed time : 33200ns [0ms]
+
+
+Copied file_40K successfully with 64KB DirectBuffer
+Elapsed time : 31100ns [0ms]
+
+
+Copied file_40K successfully with 8KB HeapBuffer
+Elapsed time : 18500ns [0ms]
+
+
+Copied file_40K successfully with 16KB HeapBuffer
+Elapsed time : 15500ns [0ms]
+
+
+Copied file_40K successfully with 32KB HeapBuffer
+Elapsed time : 15300ns [0ms]
+
+
+Copied file_40K successfully with 64KB HeapBuffer
+Elapsed time : 15700ns [0ms]
+
+
+Copied file_40K successfully with TransferTo
+Elapsed time : 14600ns [0ms]
+
+
+Copied file_40K successfully with BufferedStream
+Elapsed time : 1297300ns [1ms]
+
+
+Copied file_40K successfully with 8KB CustomBufferStream
+Elapsed time : 110500ns [0ms]
+
+
+Copied file_20M successfully with 8KB DirectBuffer
+Elapsed time : 17523400ns [17ms]
+
+
+Copied file_20M successfully with 16KB DirectBuffer
+Elapsed time : 8666700ns [8ms]
+
+
+Copied file_20M successfully with 32KB DirectBuffer
+Elapsed time : 6314300ns [6ms]
+
+
+Copied file_20M successfully with 64KB DirectBuffer
+Elapsed time : 5586000ns [5ms]
+
+
+Copied file_20M successfully with 8KB HeapBuffer
+Elapsed time : 14967600ns [14ms]
+
+
+Copied file_20M successfully with 16KB HeapBuffer
+Elapsed time : 9389400ns [9ms]
+
+
+Copied file_20M successfully with 32KB HeapBuffer
+Elapsed time : 6888400ns [6ms]
+
+
+Copied file_20M successfully with 64KB HeapBuffer
+Elapsed time : 7377700ns [7ms]
+
+
+Copied file_20M successfully with TransferTo
+Elapsed time : 3539500ns [3ms]
+
+
+Copied file_20M successfully with BufferedStream
+Elapsed time : 847424500ns [847ms]
+
+
+Copied file_20M successfully with 8KB CustomBufferStream
+Elapsed time : 49757700ns [49ms]
+
+
+Copied file_1K successfully with 8KB DirectBuffer
+Elapsed time : 82300ns [0ms]
+
+
+Copied file_1K successfully with 16KB DirectBuffer
+Elapsed time : 18800ns [0ms]
+
+
+Copied file_1K successfully with 32KB DirectBuffer
+Elapsed time : 45200ns [0ms]
+
+
+Copied file_1K successfully with 64KB DirectBuffer
+Elapsed time : 41500ns [0ms]
+
+
+Copied file_1K successfully with 8KB HeapBuffer
+Elapsed time : 10800ns [0ms]
+
+
+Copied file_1K successfully with 16KB HeapBuffer
+Elapsed time : 3700ns [0ms]
+
+
+Copied file_1K successfully with 32KB HeapBuffer
+Elapsed time : 4100ns [0ms]
+
+
+Copied file_1K successfully with 64KB HeapBuffer
+Elapsed time : 4800ns [0ms]
+
+
+Copied file_1K successfully with TransferTo
+Elapsed time : 26300ns [0ms]
+
+
+Copied file_1K successfully with BufferedStream
+Elapsed time : 7200ns [0ms]
+
+
+Copied file_1K successfully with 8KB CustomBufferStream
+Elapsed time : 23600ns [0ms]
+
+
+Copied file_80M successfully with 8KB DirectBuffer
+Elapsed time : 62113900ns [62ms]
+
+
+Copied file_80M successfully with 16KB DirectBuffer
+Elapsed time : 23345400ns [23ms]
+
+
+Copied file_80M successfully with 32KB DirectBuffer
+Elapsed time : 21327100ns [21ms]
+
+
+Copied file_80M successfully with 64KB DirectBuffer
+Elapsed time : 18661900ns [18ms]
+
+
+Copied file_80M successfully with 8KB HeapBuffer
+Elapsed time : 37842700ns [37ms]
+
+
+Copied file_80M successfully with 16KB HeapBuffer
+Elapsed time : 30835800ns [30ms]
+
+
+Copied file_80M successfully with 32KB HeapBuffer
+Elapsed time : 26602600ns [26ms]
+
+
+Copied file_80M successfully with 64KB HeapBuffer
+Elapsed time : 25621000ns [25ms]
+
+
+Copied file_80M successfully with TransferTo
+Elapsed time : 14305500ns [14ms]
+
+
+Copied file_80M successfully with BufferedStream
+Elapsed time : 577045400ns [577ms]
+
+
+Copied file_80M successfully with 8KB CustomBufferStream
+Elapsed time : 191899700ns [191ms]
+
+
+Copied file_10M successfully with 8KB DirectBuffer
+Elapsed time : 7947600ns [7ms]
+
+
+Copied file_10M successfully with 16KB DirectBuffer
+Elapsed time : 2937700ns [2ms]
+
+
+Copied file_10M successfully with 32KB DirectBuffer
+Elapsed time : 2653500ns [2ms]
+
+
+Copied file_10M successfully with 64KB DirectBuffer
+Elapsed time : 3045900ns [3ms]
+
+
+Copied file_10M successfully with 8KB HeapBuffer
+Elapsed time : 4924100ns [4ms]
+
+
+Copied file_10M successfully with 16KB HeapBuffer
+Elapsed time : 4200500ns [4ms]
+
+
+Copied file_10M successfully with 32KB HeapBuffer
+Elapsed time : 3879700ns [3ms]
+
+
+Copied file_10M successfully with 64KB HeapBuffer
+Elapsed time : 3718300ns [3ms]
+
+
+Copied file_10M successfully with TransferTo
+Elapsed time : 1886800ns [1ms]
+
+
+Copied file_10M successfully with BufferedStream
+Elapsed time : 71320300ns [71ms]
+
+
+Copied file_10M successfully with 8KB CustomBufferStream
+Elapsed time : 24799000ns [24ms]
+
+
+Copied file_80K successfully with 8KB DirectBuffer
+Elapsed time : 74400ns [0ms]
+
+
+Copied file_80K successfully with 16KB DirectBuffer
+Elapsed time : 24500ns [0ms]
+
+
+Copied file_80K successfully with 32KB DirectBuffer
+Elapsed time : 63300ns [0ms]
+
+
+Copied file_80K successfully with 64KB DirectBuffer
+Elapsed time : 70400ns [0ms]
+
+
+Copied file_80K successfully with 8KB HeapBuffer
+Elapsed time : 36000ns [0ms]
+
+
+Copied file_80K successfully with 16KB HeapBuffer
+Elapsed time : 26300ns [0ms]
+
+
+Copied file_80K successfully with 32KB HeapBuffer
+Elapsed time : 24800ns [0ms]
+
+
+Copied file_80K successfully with 64KB HeapBuffer
+Elapsed time : 24500ns [0ms]
+
+
+Copied file_80K successfully with TransferTo
+Elapsed time : 21800ns [0ms]
+
+
+Copied file_80K successfully with BufferedStream
+Elapsed time : 603900ns [0ms]
+
+
+Copied file_80K successfully with 8KB CustomBufferStream
+Elapsed time : 272100ns [0ms]

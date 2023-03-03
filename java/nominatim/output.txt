@@ -1,0 +1,8 @@
+displayName	latitude	longitude	osm_type
+Borgo Stretto, Santa Maria, San Francesco, Pisa, Toscana, 56127, Italia	43.7174487	10.4022496	way
+Via Mercanti, San Francesco, Pisa, Toscana, 56127, Italia	43.7175129	10.4039185	way
+Largo Bruno Pontecorvo, San Francesco, Pisa, Toscana, 56127, Italia	43.7199083	10.4073529	way
+Via Diotisalvi, Gagno, Pisa, Toscana, 56126, Italia	43.7219374	10.3881844	way
+Piazza Francesco Carrara, Santa Maria, San Giusto, Pisa, Toscana, 56126, Italia	43.7165514	10.397520204587654	way
+Via Giovan Battista Pellizzi, Pratale, Pisa, Toscana, 56127, Italia	43.7212098	10.4114964	way
+Via Cesare Studiati, Pratale, Pisa, Toscana, 56127, Italia	43.7223984	10.4107006	way
