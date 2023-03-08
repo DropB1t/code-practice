@@ -6,8 +6,8 @@
 #include <pthread.h>
 #include <unistd.h>
 
-#define ITERATIONS 5000000
-#define N_THREAD 50
+#define ITERATIONS 1000000
+#define N_THREAD 10
 
 int resource;
 pthread_mutex_t lock;
@@ -93,14 +93,14 @@ int main(int argc, char const *argv[])
 
 		printf("\nThread n.%d\n", i + 1);
 		printf("For loop: %.5f s [%.0f ms] [%.0f us]\n", *us / 1e+6, *us / 1000, *us);
-		printf("For each lock: %f us\n", *us / ITERATIONS);
+		printf("For each lock: %.0f ns\n", *us * 1000 / ITERATIONS);
 
-		sum += (*us / ITERATIONS);
+		sum += *us * 1000 / ITERATIONS;
 		free(us);
 	}
 
 	sum = sum / N_THREAD;
-	printf("\nAvg lock time [plus int increament]: %f\n", sum);
+	printf("\nAvg lock time [plus int increament]: %.0f ns\n", sum);
 
 	return EXIT_SUCCESS;
 }
