@@ -1,5 +1,9 @@
+use deepsize::DeepSizeOf;
 use rand::Rng;
 use std::mem;
+
+mod bts;
+use crate::bts::*;
 
 #[derive(Debug)]
 struct Node {
@@ -62,12 +66,22 @@ fn main() {
     };
     let mut rng = rand::thread_rng();
 
-    let mut i: i32 = 100;
+    let mut i: i32 = 500;
     while i != 0 {
         tree.add(rng.gen_range(-500..=500));
         i -= 1;
     }
 
-    println!("{:?}", tree);
+    //println!("{:?}", tree);
     println!("Tree occupies {} bytes", tree.get_size());
+
+    let mut bts = BST::new();
+    let mut j: i32 = 500;
+    while j != 0 {
+        bts.insert(rng.gen_range(-500..=500));
+        j -= 1;
+    }
+    println!("BTS occupies {} bytes", bts.get_size());
+    println!("Deep Size occupies {} bytes", bts.deep_size_of());
+
 }
