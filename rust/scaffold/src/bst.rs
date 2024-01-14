@@ -3,7 +3,7 @@ use std::{cmp::Ordering::*, mem};
 use deepsize::DeepSizeOf;
 
 #[derive(DeepSizeOf)]
-pub struct Node<K: Ord> {
+struct Node<K: Ord> {
     key: K,
     left: BST<K>,
     right: BST<K>,

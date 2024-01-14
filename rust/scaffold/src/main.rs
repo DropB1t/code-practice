@@ -2,8 +2,8 @@ use deepsize::DeepSizeOf;
 use rand::Rng;
 use std::mem;
 
-mod bts;
-use crate::bts::*;
+mod bst;
+use crate::bst::BST;
 
 #[derive(Debug)]
 struct Node {
